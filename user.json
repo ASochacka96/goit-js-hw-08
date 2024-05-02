@@ -1,0 +1,17 @@
+{
+    "name": "Josh", // string
+    "weight": 175, // number
+    "age": 30, // number
+    "eyecolor": "brown", // string
+    "isHappy": true, // boolean
+    "cars": ["Chevy", "Honda"], // array
+    "favouriteBook": { // object
+        "tittle": "The Last Kingdom", // string
+        "author": "Bernard Cornwell", // string
+        "rating": 8.38 // number
+    }
+}
+
+// W danym pliku json mamy następujące atrybuty: name(imię), weight(waga), age(wiek), eyecolor(kolor oczu), isHappy(czy dana osoba jest szczęśliwa), cars(auta), favouriteBook(ulubiona książka). 
+// W atrybucie favouriteBook mamy zagnieżdżenie, w którym występują atrybuty takie jak: tittle(tytuł), author(autor) oraz rating(ocena). 
+// W danym pliku Json występują właściwości zapisane w formie: tekstowej (string), numerycznej (number), tabeli (array) oraz jako obiekt (object). 
